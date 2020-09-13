@@ -46,7 +46,7 @@ Notice in the examples below that the model is an Object (single selection) or a
 
 ::: tip TIPS
 * Clicking on an already selected day will deselect it.
-* The user's current editing range can also be set programmatic through the `setEditingRange` method (check the API card).
+* The user's current editing range can also be set programmatically through the `setEditingRange` method (check the API card).
 * There are two useful events in regards to the current editing range: `range-start` and `range-end` (check the API card).
 :::
 
